@@ -13,7 +13,8 @@ This project is to demonstrate how you can use Wireshark to sniff credentials ov
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis. (Splunk)
-- Telemetry generation tools to create realistic network traffic and attack scenarios. (Sysmon)
+<img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
+<img src="https://img.shields.io/badge/-PuTTY-002147?&style=for-the-badge&logo=putty&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
 
 ## Steps
