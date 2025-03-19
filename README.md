@@ -20,3 +20,4 @@ This project is to demonstrate how you can use Wireshark to sniff credentials ov
 
 
 ## Steps
+Step 1. Download Windows ISO file, Ubuntu, and Virtual Box.
