@@ -20,4 +20,7 @@ This project is to demonstrate how you can use Wireshark to sniff credentials ov
 
 
 ## Steps
-Step 1. Download Windows ISO file, Ubuntu, and Virtual Box.
+Step 1. Download Windows ISO file, Ubuntu, and Virtual Box. On Ubuntu VM, change network setting to Internal network.
+![step1](https://github.com/user-attachments/assets/1a609bba-e161-4bdc-8c1b-b7f25e71ceda)
+
+Step 2. 
