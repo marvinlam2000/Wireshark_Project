@@ -1,7 +1,7 @@
 # Wireshark Project
 
 ## Objective
-This project is to demonstrate how you can use Wireshark to sniff credentials over Telnet. It's just a proof of concept that Telnet is not secure. 
+This project is to demonstrate how you can use Wireshark to use Wireshark.
 
 ### Skills Learned
 
@@ -16,11 +16,9 @@ This project is to demonstrate how you can use Wireshark to sniff credentials ov
 <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 <img src="https://img.shields.io/badge/-PuTTY-002147?&style=for-the-badge&logo=putty&logoColor=white" />
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
-
 
 ## Steps
-Step 1. Download Windows ISO file, Ubuntu, and Virtual Box. On Ubuntu VM, change network setting to Internal network.
-![step1](https://github.com/user-attachments/assets/1a609bba-e161-4bdc-8c1b-b7f25e71ceda)
+Step 1. Download Windows ISO file and Virtual Box. Virtual Box is a platform to host virtual machines. This can allow the user to test tools without the use of the users personal computer.
+
 
 Step 2. 
