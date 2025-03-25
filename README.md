@@ -1,7 +1,7 @@
 # Wireshark Project
 
 ## Objective
-This project is to demonstrate how you can use Wireshark. Wireshark is a powerful protocol analyzer that can help you develop various networking and cybersecurity skills.
+Wireshark is a powerful protocol analyzer that can help you develop various networking and cybersecurity skills.
 
 ### Skills Learned
 
